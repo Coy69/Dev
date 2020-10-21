@@ -1,0 +1,8 @@
+C:\dev\c\svc\svc\bin\Debug\netcoreapp2.1\svc.deps.json
+C:\dev\c\svc\svc\bin\Debug\netcoreapp2.1\svc.runtimeconfig.json
+C:\dev\c\svc\svc\bin\Debug\netcoreapp2.1\svc.runtimeconfig.dev.json
+C:\dev\c\svc\svc\bin\Debug\netcoreapp2.1\svc.dll
+C:\dev\c\svc\svc\obj\Debug\netcoreapp2.1\svc.csprojAssemblyReference.cache
+C:\dev\c\svc\svc\obj\Debug\netcoreapp2.1\svc.csproj.CoreCompileInputs.cache
+C:\dev\c\svc\svc\obj\Debug\netcoreapp2.1\svc.AssemblyInfoInputs.cache
+C:\dev\c\svc\svc\obj\Debug\netcoreapp2.1\svc.AssemblyInfo.cs
