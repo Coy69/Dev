@@ -1,0 +1,7 @@
+C:\dev\c\svcrecv\svcrecv\bin\Debug\netcoreapp2.1\svcrecv.deps.json
+C:\dev\c\svcrecv\svcrecv\bin\Debug\netcoreapp2.1\svcrecv.runtimeconfig.json
+C:\dev\c\svcrecv\svcrecv\bin\Debug\netcoreapp2.1\svcrecv.runtimeconfig.dev.json
+C:\dev\c\svcrecv\svcrecv\bin\Debug\netcoreapp2.1\svcrecv.dll
+C:\dev\c\svcrecv\svcrecv\obj\Debug\netcoreapp2.1\svcrecv.csproj.CoreCompileInputs.cache
+C:\dev\c\svcrecv\svcrecv\obj\Debug\netcoreapp2.1\svcrecv.AssemblyInfoInputs.cache
+C:\dev\c\svcrecv\svcrecv\obj\Debug\netcoreapp2.1\svcrecv.AssemblyInfo.cs
